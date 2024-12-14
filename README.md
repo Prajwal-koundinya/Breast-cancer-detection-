@@ -1,4 +1,4 @@
-# **OncoVision: Breast Cancer Detection Using Infrared Thermography**
+# **OncoVision: Breast Cancer Detection Using Ultra Sound Images**
 
 ### 🌟 **Project Overview**
 
