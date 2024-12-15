@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 **Repository Structure**
+## 🌐 **Folder Structure**
 
 ```
 OncoVision/
@@ -116,9 +116,9 @@ OncoVision/
 ## 📊 **Performance Metrics**
 
 - **Accuracy**: 81%
-- **Precision**: 79.2%
-- **Recall**: 80.5%
-- **F1-Score**: 79.8%
+- **Precision**: 82%
+- **Recall**: 85.5%
+- **F1-Score**: 84.8%
 
 ---
 
