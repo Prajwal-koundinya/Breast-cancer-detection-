@@ -2,7 +2,7 @@
 
 ### 🌟 **Project Overview**
 
-**OncoVision** is a groundbreaking approach to breast cancer detection leveraging **infrared thermography** and **machine learning models**. This project aims to provide a non-invasive, cost-effective, and efficient method for early cancer detection. With a focus on accessibility and patient-centric design, OncoVision strives to inspire confidence and positivity during the diagnostic process.
+**OncoVision** is a ground breaking approach to breast cancer detection leveraging **infrared thermography** and **machine learning models**. This project aims to provide a non-invasive, cost-effective, and efficient method for early cancer detection. With a focus on accessibility and patient-centric design, OncoVision strives to inspire confidence and positivity during the diagnostic process.
 
 ---
 
