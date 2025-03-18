@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 **Folder Structure**
+## 🌐 **Project Folder Structure**
 
 ```
 OncoVision/
