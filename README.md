@@ -1,4 +1,4 @@
-# **OncoVision: Breast Cancer Detection Using Ultra Sound Images**
+# **OncoVision: Breast Cancer Detection using Ultra Sound Images**
 
 ### 🌟 **Project Overview**
 
