@@ -35,7 +35,7 @@ OncoVision/
 1. **`data/`**: Contains thermal images categorized into benign and malignant classes, along with preprocessed images.
 2. **`models/`**: Houses the machine learning model and related scripts.
 3. **`app/`**: Source code for the OncoVision app (frontend and backend).
-4. **`reports/`**: Evaluation metrics, visualizations, and analysis reports.
+4. **`reports/`**: Evaluation metrics, visualization of results, and analysis.
 
 ---
 
