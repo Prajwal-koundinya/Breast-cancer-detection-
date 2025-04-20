@@ -71,8 +71,8 @@ OncoVision/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Prajwal-koundinya/OncoVision.git
-   cd OncoVision
+   git clone https://github.com/Prajwal-koundinya/Breast-cancer-detection.git
+   cd Breast-cancer-detection
    ```
 
 2. **Install dependencies**:
