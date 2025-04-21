@@ -67,7 +67,7 @@ OncoVision/
 - **OpenCV**
 - **Flask/Django (Backend)**
 
-### Steps
+### Steps to be followed
 
 1. **Clone the repository**:
    ```bash
