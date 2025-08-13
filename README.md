@@ -174,6 +174,9 @@ Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu).
   [GitHub - Prajwal Koundinya](https://github.com/Prajwal-koundinya)  
 - **Deeksha R G** - Data Scientist and Developer  
   [GitHub - Deeksha R G](https://github.com/deeksha-rg)
+  
+- **Thilak R** - Data Scientist  
+  [GitHub - Thilak R](https://github.com/thilak-r)   
 
 ---
 
